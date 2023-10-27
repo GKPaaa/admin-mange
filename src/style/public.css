@@ -1,0 +1,72 @@
+/* 版心宽度 */
+.w-1200 {
+  width: 1200px;
+}
+
+/* 宽度 */
+.w-100p {
+  width: 100%;
+}
+/* 高度 */
+.h-m-c {
+  min-height: calc(100vh - 128px);
+}
+
+/* 背景色 */
+.bg-f {
+  background-color: #fff;
+}
+.bg-d {
+  background-color: #ddd;
+}
+
+/* 字体大小 */
+.fs-16 {
+  font-size: 16px;
+}
+.fs-24 {
+  font-size: 24px;
+}
+/* 布局 */
+.df {
+  display: flex;
+}
+
+.al-ct {
+  align-items: center;
+}
+.al-fs {
+  align-items: flex-start;
+}
+.al-fe {
+  align-items: flex-end;
+}
+.jc-ct {
+  justify-content: center;
+}
+.jc-fe {
+  justify-content: flex-end;
+}
+.jc-fs {
+  justify-content: flex-start;
+}
+
+.fl-1 {
+  flex: 1;
+}
+
+/* 外边距 */
+.m-010 {
+  margin: 0 10px;
+}
+
+/* 居中，右，左 */
+.tac {
+  text-align: center;
+}
+.tar {
+  text-align: right;
+}
+.tal {
+  text-align: left;
+}

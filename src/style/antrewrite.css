@@ -1,0 +1,16 @@
+.ant-layout .ant-layout-header {
+  background-color: #fff;
+}
+
+/* 删除导航栏底部 */
+.ant-menu-horizontal {
+  border-bottom: none;
+}
+/* 顶部导航栏内边距 */
+.ant-layout .ant-layout-header {
+  padding-inline: 0;
+}
+/* 侧边导航栏距离左侧内边距
+.ant-menu-submenu-title {
+  padding-left: 0 !important;
+} */
